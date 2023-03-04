@@ -6,4 +6,4 @@ Really simple SVG Patterns using single unicode characters.
 
 You can view all of the patterns with their generated SVG snippets on:
 
-https://notchris.net/patterns
+https://notchr.is/patterns/
